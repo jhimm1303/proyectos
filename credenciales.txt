@@ -1,2 +1,0 @@
-user = fmo
-passwd = 1234
